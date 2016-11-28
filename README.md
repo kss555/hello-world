@@ -1,6 +1,6 @@
 # hello-world
 
-This is new description.
+This is a new description.
 
 Hi there! I dont know something. 
 
